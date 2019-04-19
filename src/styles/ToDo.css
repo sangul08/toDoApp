@@ -1,0 +1,11 @@
+.todoInput {
+    height: 40px;
+    width: 250px;
+}
+.addItem {
+    height: 45px;
+    width: 60px;
+    color: white;
+    border:none; 
+    background-color: purple;
+}
